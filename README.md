@@ -1,2 +1,2 @@
 # microduino_boards
-microduino boards
+Boards Manager for Microduino
